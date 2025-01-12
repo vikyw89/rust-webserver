@@ -1,0 +1,16 @@
+{
+  "version": "4",
+  "redirects": {
+    "https://deno.land/x/semaphore/mod.ts": "https://deno.land/x/semaphore@v1.1.2/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/semaphore@v1.1.2/mod.ts": "431abb51927a16c537cec1cfb05bf2de6a8f3916331f1ec3f9f13ad7ad6a4ea5",
+    "https://deno.land/x/semaphore@v1.1.2/mutex.ts": "2cc6490481f0fdfe97c6b326a2073819d76b76eac3877864a8ada6a2127492f2",
+    "https://deno.land/x/semaphore@v1.1.2/semaphore.ts": "a3da40292cd49c3f31be392aa16831d00c1ddf6daca50dd74eb61aa6ae8f52a3"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/assert@1"
+    ]
+  }
+}
